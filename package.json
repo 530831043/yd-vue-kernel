@@ -1,0 +1,19 @@
+{
+  "name": "ydweb",
+  "version": "1.0.0",
+  "description": "一灯学员专用仓库",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lgwebdream/ydweb.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/lgwebdream/ydweb/issues"
+  },
+  "homepage": "https://github.com/lgwebdream/ydweb#readme"
+}
