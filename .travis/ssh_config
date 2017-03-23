@@ -1,0 +1,6 @@
+User root
+HostName www.yideng.site
+Port 54322
+StrictHostKeyChecking no
+IdentityFile /root/.ssh/id_rsa
+IdentitiesOnly yes
