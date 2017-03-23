@@ -35,7 +35,7 @@ npm install yog
 
 _app.js_
 
-```javascript
+```js
 var yog = require('yog');
 var app = require('express')();
 var PORT = 4000;
@@ -47,6 +47,13 @@ app.use(yog()).listen(PORT, function () {
 
 detail see project [fex-team/yog-app](https://github.com/fex-team/yog-app)
 
+```js
+var s = 123;
+function test(){
+   alert(s);
+}
+```
+
 ### others
 
 * [kraken-js](https://github.com/krakenjs/kraken-js)
@@ -54,8 +61,6 @@ detail see project [fex-team/yog-app](https://github.com/fex-team/yog-app)
 * [yog-view](https://github.com/fex-team/yog-view)
 * [yog-bigpipe](https://github.com/fex-team/yog-bigpipe)
 * [yog-swig](https://github.com/fex-team/yog-swig)
-
-
 
 
 
