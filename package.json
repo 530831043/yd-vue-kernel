@@ -4,7 +4,7 @@
     "description": "一灯学员专用仓库",
     "main": "./src/app.js",
     "scripts": {
-        "test": "node main"
+        "test": "node ./src/app.js"
     },
     "repository": {
         "type": "git",
