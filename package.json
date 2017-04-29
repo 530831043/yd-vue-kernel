@@ -1,0 +1,11 @@
+{
+  "name": "yd-vue-kernel",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": {
+    "url": "https://github.com/lgwebdream/yd-vue-kernel.git",
+    "type": "git"
+  },
+  "author": "yuanzhijia <495725428@qq.com>",
+  "license": "MIT"
+}
