@@ -2,7 +2,7 @@
 
 # 一灯学堂Vue Pc端脚手架
 
-[![NPM version](https://badge.fury.io/js/yog.png)](http://badge.fury.io/js/yog) [![Dependencies Status](https://david-dm.org/fex-team/yog.png)](https://david-dm.org/fex-team/yog)
+[![NPM version](https://badge.fury.io/js/yog.png)](http://badge.fury.io/js/yog) [](https://david-dm.org/fex-team/yog)
 
 An koa2-based Node.js web application bootstrapping module,with Vue2.
 
@@ -11,13 +11,13 @@ An koa2-based Node.js web application bootstrapping module,with Vue2.
 on Linux/Unix
 
 ```bash
-$ npm install -g yarn  
+$ npm install -g yarn
 ```
 
 then open `cmd`
 
 ```bash
-yarn install 
+yarn install
 ```
 
 ### 
