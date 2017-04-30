@@ -11,56 +11,24 @@ An koa2-based Node.js web application bootstrapping module,with Vue2.
 on Linux/Unix
 
 ```bash
-$ npm install yog
+$ npm install -g yarn  
 ```
 
-on Windows
-
-open a `cmd`
+then open `cmd`
 
 ```bash
-npm install yog
+yarn install 
 ```
 
-### use
-
-    .
-    ├── app.js
-    ├── config  # some `map.json` and `config.json`
-    ├── controllers
-    ├── lib
-    ├── models
-    ├── public # static
-    └── views # views or template
-
-_app.js_
-
-```js
-var yog = require('yog');
-var app = require('express')();
-var PORT = 4000;
-
-app.use(yog()).listen(PORT, function () {
-    console.log('Listening *:' + PORT);
-});
-```
-
-detail see project [fex-team/yog-app](https://github.com/fex-team/yog-app)
-
-```js
-var s = 123;
-function test(){
-   alert(s);
-}
-```
+### 
 
 ### others
 
-* [kraken-js](https://github.com/krakenjs/kraken-js)
-* [swig](https://github.com/paularmstrong/swig/)
-* [yog-view](https://github.com/fex-team/yog-view)
-* [yog-bigpipe](https://github.com/fex-team/yog-bigpipe)
-* [yog-swig](https://github.com/fex-team/yog-swig)
+* Vue
+* KOA2
+* Webpack2
+* mocha
+* selenium-webdriver
 
 
 
