@@ -4,7 +4,7 @@
 
 [![NPM version](https://badge.fury.io/js/yog.png)](http://badge.fury.io/js/yog) [![Dependencies Status](https://david-dm.org/fex-team/yog.png)](https://david-dm.org/fex-team/yog)
 
-An express-based Node.js web application bootstrapping module, extends kraken-js.
+An koa2-based Node.js web application bootstrapping module,with Vue2.
 
 ### install
 
