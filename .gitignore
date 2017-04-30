@@ -1,6 +1,8 @@
 # Dependency directory
-node_modules
+node_modules/
 #.DS_Store
 *.DS_Store
 # Compiled 
-build
+build/
+# Log
+*.log 
